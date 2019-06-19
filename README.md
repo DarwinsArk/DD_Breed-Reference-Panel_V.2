@@ -3,7 +3,7 @@ This panel serves as reference for the breed ancestry assignment pipeline for th
 
 Version 2 contains 101 breeds with 12 dogs per breed and (TBD) SNP markers.
 
-_V.1 is the most current version used for Genomic Breed Mix results on the Darwin's Ark website; V.2 is in progress._
+_V.1 is the most current version used for Genomic Breed Mix results on the Darwin's Ark website; V.2 is in progress and undergoing validation by simulations._
 
 ## Data Sources and Acknowledgments
 
