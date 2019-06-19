@@ -14,4 +14,4 @@ _V.1 is the most current version used for Genomic Breed Mix results on the Darwi
 
 ## Breeds Added
 
-_V.1.0_: American Pit Bull Terrier, Bearded Collie, Belgian Malinois, Chinook, English Shepherd, Entlebucher, Saluki, Tibetan Mastiff.
+_V.1.0_ -- American Pit Bull Terrier, Bearded Collie, Belgian Malinois, Chinook, English Shepherd, Entlebucher, Saluki, Tibetan Mastiff.
